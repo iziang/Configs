@@ -77,5 +77,5 @@ set splitright
 
 """"""""""""""""""""""""""""""""""""""""""""" misc
 set nu
-set wildignore+=*/tmp/*,*.so,*.swp,*.zip
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.beam
 set noshowmode
